@@ -10,7 +10,7 @@
 #include "Snap.h"
 
 int main(int argc, const char * argv[]) {
-    // Some comments
+    // Some comments more 
     std::cout << "Hello, World!\n";
     return 0;
 }
